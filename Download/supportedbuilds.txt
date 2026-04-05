@@ -1,0 +1,7 @@
+the server only supports 2017 right now
+
+the builds are april 2017
+may 2017
+octobor 2017
+
+the builds can be downloaded later from github
